@@ -1,7 +1,7 @@
 # PySpark_MLLib_Project
 Machine Learning in PySpark
 ********************************************************************************************************************************
-1. Linear Regression Consulting Project
+Linear Regression Consulting Project
 
 Problem Statement:
 
