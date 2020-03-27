@@ -1,9 +1,9 @@
 # PySpark_MLLib_Project
-Machine Learning in PySpark
+**##Machine Learning in PySpark**
 ********************************************************************************************************************************
-Linear Regression Consulting Project
+###**Linear Regression Consulting Project**
 
-Problem Statement:
+**Problem Statement:**
 
 You've been contracted by Hyundai Heavy Industries to help them build a predictive model for some ships. 
 Hyundai Heavy Industries is one of the world's largest ship manufacturing companies and builds cruise liners.
@@ -32,9 +32,9 @@ It is saved in a csv file for you called "cruise_ship_info.csv". Your job is to 
 The client also mentioned that they have found that particular cruise lines will differ in acceptable crew counts, so it is most likely an important feature to include in your analysis!
 
 ****************************************************************************************************************************************
-Logistic Regression Consulting Project
+###**Logistic Regression Consulting Project**
 
-Problem Statement:
+**Problem Statement:**
 We have a titanic dataset with the passengers information such as age, gender, passenger's class, fare, etc. We need to identify which passenger survive titanic crash based on their personal information.
 
 Columns:
