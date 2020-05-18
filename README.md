@@ -1,4 +1,4 @@
-# PySpark_MLLib_Project on Databricks
+# Machine learning on Databricks using Spark ML library
 **Machine Learning in PySpark**
 ********************************************************************************************************************************
 **Linear Regression Consulting Project**
