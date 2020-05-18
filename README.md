@@ -1,9 +1,9 @@
 # Machine learning on Databricks using Spark ML library
-**Machine Learning in PySpark**
+**Machine Learning using PySpark**
 ********************************************************************************************************************************
-**Linear Regression Consulting Project**
+## Linear Regression Consulting Project**
 
-**Problem Statement:**
+### Problem Statement:**
 
 You've been contracted by Hyundai Heavy Industries to help them build a predictive model for some ships. 
 Hyundai Heavy Industries is one of the world's largest ship manufacturing companies and builds cruise liners.
@@ -18,16 +18,17 @@ Description: Measurements of ship size, capacity, crew, and age for 158 cruise
 ships.
 
 
-Variables/Columns
-Ship Name     1-20
-Cruise Line   21-40
-Age (as of 2013)   46-48
-Tonnage (1000s of tons)   50-56
-passengers (100s)   58-64
-Length (100s of feet)  66-72
-Cabins  (100s)   74-80
-Passenger Density   82-88
-Crew  (100s)   90-96
+Variables/Columns: 
+* Ship Name     1-20
+* Cruise Line   21-40
+* Age (as of 2013)   46-48
+* Tonnage (1000s of tons)   50-56
+* passengers (100s)   58-64
+* Length (100s of feet)  66-72
+* Cabins  (100s)   74-80
+* Passenger Density   82-88
+* Crew  (100s)   90-96
+
 It is saved in a csv file for you called "cruise_ship_info.csv". Your job is to create a regression model that will help predict how many crew members will be needed for future ships. 
 The client also mentioned that they have found that particular cruise lines will differ in acceptable crew counts, so it is most likely an important feature to include in your analysis!
 
